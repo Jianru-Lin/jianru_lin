@@ -6,6 +6,6 @@
 
 软件形式化方面最重要的三个会议：
 
-* POPL
-* PLDI
-* ICFP
+* POPL - ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages
+* PLDI - SIGPLAN Conference on Programming Language Design and Implementation
+* ICFP - International Conference on Functional Programming
